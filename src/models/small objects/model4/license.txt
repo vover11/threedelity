@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shattered Glass
+* source:	https://sketchfab.com/3d-models/shattered-glass-5cedc4854d104f1f9bb5854db52c2af1
+* author:	combine_soldier (https://sketchfab.com/combine_soldier)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shattered Glass" (https://sketchfab.com/3d-models/shattered-glass-5cedc4854d104f1f9bb5854db52c2af1) by combine_soldier (https://sketchfab.com/combine_soldier) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

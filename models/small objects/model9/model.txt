@@ -1,0 +1,3 @@
+name: crystal
+price: 21
+description: pure neon crystal with bless

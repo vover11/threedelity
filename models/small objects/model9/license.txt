@@ -1,0 +1,11 @@
+Model Information:
+* title:	3d Poop Emoji
+* source:	https://sketchfab.com/3d-models/3d-poop-emoji-aba9c319497c4c5f8c62cd109b3e9242
+* author:	Dimensión N (https://sketchfab.com/dimensionn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3d Poop Emoji" (https://sketchfab.com/3d-models/3d-poop-emoji-aba9c319497c4c5f8c62cd109b3e9242) by Dimensión N (https://sketchfab.com/dimensionn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Heart Emoji
+* source:	https://sketchfab.com/3d-models/heart-emoji-fbe5ef1d09cb408c9c6dcdd7c0b47d9b
+* author:	PriscilaSantiago (https://sketchfab.com/PriscilaSantiago)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Heart Emoji" (https://sketchfab.com/3d-models/heart-emoji-fbe5ef1d09cb408c9c6dcdd7c0b47d9b) by PriscilaSantiago (https://sketchfab.com/PriscilaSantiago) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
